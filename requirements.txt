@@ -1,0 +1,4 @@
+# requirements.txt
+openai
+python-dotenv
+google-generativeai
