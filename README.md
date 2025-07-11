@@ -13,7 +13,7 @@ This project is an AI agent designed to understand tasks, reason about them, and
 ### Prerequisites
 
 *   Python 3.9+
-*   An OpenAI API key
+*   Google AI Studio API key
 
 ### Installation
 
